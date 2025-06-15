@@ -21,7 +21,7 @@ Performed in **MySQL** using the script [`amazon_sales(mysql).sql`](https://gith
 - Standardized payment method values (e.g., 'cod' → 'COD')
 - Converted order date string to SQL `DATE` format
 
-Final cleaned dataset exported as: `amazon_sales_clean(sql).csv`
+Final cleaned dataset exported as: [`amazon_sales_clean(sql).csv`](https://github.com/AnkitPal24/Amazon-Sales-Analysis/blob/main/amazon_sales_clean(sql).csv)
 
 ---
 
