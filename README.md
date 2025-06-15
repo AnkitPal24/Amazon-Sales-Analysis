@@ -14,9 +14,9 @@ The goal of this project is to clean raw transactional sales data, extract meani
 
 ## 🧹 1. Data Cleaning (SQL)
 
-Performed in **MySQL** using the script [`amazon_sales(mysql).sql`](./sql/amazon_sales(mysql).sql):
+Performed in **MySQL** using the script [`amazon_sales(mysql).sql`](https://github.com/AnkitPal24/Amazon-Sales-Analysis/blob/main/amazon_sales(mysql).sql):
 
-- Removed duplicate rows based on `Order ID`
+- Checked duplicate rows based on `Order ID`
 - Handled missing values in key columns like `Category`, `Customer Name`, `Payment Method`
 - Standardized payment method values (e.g., 'cod' → 'COD')
 - Converted order date string to SQL `DATE` format
