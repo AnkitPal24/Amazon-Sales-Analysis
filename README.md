@@ -45,7 +45,7 @@ EDA performed using **pandas**, **matplotlib**, and **seaborn** to understand sa
 | Profit Heatmap (Region x Category)     | Heatmap/Matrix       | Average profit by region & category |
 | Low Profit Detection                   | Heatmap              | Categories with lowest profit margins |
 
-> 📓 Notebook File: [`Amazon sales sql.ipynb`](./notebooks/Amazon%20sales%20sql.ipynb)
+> 📓 Notebook File: [`Amazon sales sql.ipynb`](https://github.com/AnkitPal24/Amazon-Sales-Analysis/blob/main/Amazon%20sales%20sql.ipynb)
 
 ---
 
