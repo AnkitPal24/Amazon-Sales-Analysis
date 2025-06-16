@@ -63,7 +63,7 @@ A fully interactive Power BI dashboard is being created to visualize all the abo
 
 ---
 
-## 📌 Tools & Technologies Used
+## 📌 4. Tools & Technologies Used
 
 - **SQL (MySQL)** – Data Cleaning & Preprocessing
 - **Python (pandas, seaborn, matplotlib)** – EDA
@@ -73,7 +73,7 @@ A fully interactive Power BI dashboard is being created to visualize all the abo
 
 ---
 
-## 🧠 Insights & Key Findings
+## 🧠 5. Insights & Key Findings
 - 	📈 Sales and Profit followed a seasonal trend, with noticeable spikes during specific months.
 -	🛍️ Top-selling products significantly outperform the long tail, contributing most of the revenue.
 -	🗺️ West and North regions generated the highest profits, while East had lower margins.
@@ -84,7 +84,7 @@ A fully interactive Power BI dashboard is being created to visualize all the abo
 
  ---
 
- ## ✅ Conclusion
+ ## ✅ 6. Conclusion
 
 This project demonstrates real-world business analytics skills, including:
 -	SQL for robust data preparation
