@@ -73,22 +73,22 @@ A fully interactive Power BI dashboard is being created to visualize all the abo
 
 ---
 
-🧠 Insights & Key Findings
-	•	📈 Sales and Profit followed a seasonal trend, with noticeable spikes during specific months.
-	•	🛍️ Top-selling products significantly outperform the long tail, contributing most of the revenue.
-	•	🗺️ West and North regions generated the highest profits, while East had lower margins.
-	•	🧾 ‘Electronics’ and ‘Clothing’ were the most profitable product categories.
-	•	💳 ‘COD’ and ‘UPI’ were the most popular payment methods among customers.
-	•	📉 Heavy discounts negatively impacted profit margins.
-	•	🔥 Low-profit zones were identified by region and category, helping in strategy optimization.
+## 🧠 Insights & Key Findings
+- 	📈 Sales and Profit followed a seasonal trend, with noticeable spikes during specific months.
+-	🛍️ Top-selling products significantly outperform the long tail, contributing most of the revenue.
+-	🗺️ West and North regions generated the highest profits, while East had lower margins.
+-	🧾 ‘Electronics’ and ‘Clothing’ were the most profitable product categories.
+-	💳 ‘COD’ and ‘UPI’ were the most popular payment methods among customers.
+-	📉 Heavy discounts negatively impacted profit margins.
+-	🔥 Low-profit zones were identified by region and category, helping in strategy optimization.
 
  ---
 
- ✅ Conclusion
+ ## ✅ Conclusion
 
 This project demonstrates real-world business analytics skills, including:
-	•	SQL for robust data preparation
-	•	Python for insightful data exploration
-	•	Power BI for dashboard storytelling
+-	SQL for robust data preparation
+-	Python for insightful data exploration
+-	Power BI for dashboard storytelling
 
 It reflects strong capabilities in data cleaning, analytical thinking, and visual communication — essential for roles in Data Analytics and Business Intelligence.
