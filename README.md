@@ -59,7 +59,7 @@ A fully interactive Power BI dashboard is being created to visualize all the abo
 - Insights into top buyers and best-selling products
 - Interactive slicers for deep-dive exploration
 
-📎 **To be uploaded soon**: `dashboard/amazon_dashboard.pbix`
+📎 **PowerBI dashboard**: [`dashboard/amazon_dashboard.pbix`](https://github.com/AnkitPal24/Amazon-Sales-Analysis_MYSQL/blob/main/amazon_sales_dashboard.pbix)
 
 ---
 
